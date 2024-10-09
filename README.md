@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ghithrifnr
 - 👀 I’m interested in **Data Science** and **Machine Learning**
 - 💞️ I’m looking to collaborate on BI Developer and Data Analysis
-- 📫 How to reach me https://linkedin.com/in/ghithrif-nisfu-ramdhan
+- 📫 How to reach me https://linkedin.com/in/ghithrifnr
 - 😄 Pronouns: He/Him
 
 <!---
